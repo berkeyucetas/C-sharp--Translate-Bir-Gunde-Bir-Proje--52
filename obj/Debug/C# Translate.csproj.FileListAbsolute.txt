@@ -1,0 +1,10 @@
+C:\Users\bekoo\source\repos\C# Translate\C# Translate\bin\Debug\C# Translate.exe.config
+C:\Users\bekoo\source\repos\C# Translate\C# Translate\bin\Debug\C# Translate.exe
+C:\Users\bekoo\source\repos\C# Translate\C# Translate\bin\Debug\C# Translate.pdb
+C:\Users\bekoo\source\repos\C# Translate\C# Translate\obj\Debug\C# Translate.csproj.AssemblyReference.cache
+C:\Users\bekoo\source\repos\C# Translate\C# Translate\obj\Debug\C__Translate.Form1.resources
+C:\Users\bekoo\source\repos\C# Translate\C# Translate\obj\Debug\C__Translate.Properties.Resources.resources
+C:\Users\bekoo\source\repos\C# Translate\C# Translate\obj\Debug\C# Translate.csproj.GenerateResource.cache
+C:\Users\bekoo\source\repos\C# Translate\C# Translate\obj\Debug\C# Translate.csproj.CoreCompileInputs.cache
+C:\Users\bekoo\source\repos\C# Translate\C# Translate\obj\Debug\C# Translate.exe
+C:\Users\bekoo\source\repos\C# Translate\C# Translate\obj\Debug\C# Translate.pdb
